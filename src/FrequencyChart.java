@@ -34,16 +34,16 @@ public class FrequencyChart {
                     c91++;
             }
         }
-
-        System.out.println("11-20 | " + plot(c1));
-        System.out.println("21-30 | " + plot(c11));
-        System.out.println("31-40 | " + plot(c21));
-        System.out.println("41-50 | " + plot(c31));
-        System.out.println("51-60 | " + plot(c41));
-        System.out.println("61-70 | " + plot(c51));
-        System.out.println("71-80 | " + plot(c61));
-        System.out.println("81-90 | " + plot(c71));
-        System.out.println("91-100| " + plot(c81));
+        System.out.println("1-10  | " + plot(c1));
+        System.out.println("11-20 | " + plot(c11));
+        System.out.println("21-30 | " + plot(c21));
+        System.out.println("31-40 | " + plot(c31));
+        System.out.println("41-50 | " + plot(c41));
+        System.out.println("51-60 | " + plot(c51));
+        System.out.println("61-70 | " + plot(c61));
+        System.out.println("71-80 | " + plot(c71));
+        System.out.println("81-90 | " + plot(c81));
+        System.out.println("91-100| " + plot(c91));
     }
 
     private String plot(int freq) {
