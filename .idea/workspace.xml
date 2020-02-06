@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bbaf7a-81ff-4726-a9a9-5f8015460dff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicLibraryClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FrequencyChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrequencyChart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
