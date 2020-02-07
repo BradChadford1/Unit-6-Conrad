@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class MusicLibraryClient {
     public static void main(String[] args) {
         MusicLibrary myLibrary = new MusicLibrary();
@@ -9,19 +11,19 @@ public class MusicLibraryClient {
         myLibrary.add(a1);
         myLibrary.add(a2);
 
-        System.out.println(myLibrary);
+        System.out.println(myLibrary.toString());
 
         System.out.println("+++++++++++++++++++++++++++++++++++++++");
 
         myLibrary.doubleSize();
 
-        System.out.println(myLibrary);
+        System.out.println(myLibrary.toString());
 
         System.out.println("+++++++++++++++++++++++++++++++++++++++");
 
         myLibrary.remove(1);
         myLibrary.add(a3);
-        System.out.println(myLibrary);
+        System.out.println(myLibrary.toString());
 
         System.out.println("+++++++++++++++++++++++++++++++++++++++");
     }
