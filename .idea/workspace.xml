@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bbaf7a-81ff-4726-a9a9-5f8015460dff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Array2DExplorer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit-6-Conrad/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit-6-Conrad/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit-6-Conrad/MusicLibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit-6-Conrad/MusicLibrary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit-6-Conrad/MusicLibraryClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit-6-Conrad/MusicLibraryClient.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Album.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MusicLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MusicLibrary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MusicLibraryClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MusicLibraryClient.java" afterDir="false" />
@@ -104,33 +108,33 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1580851998181" />
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1581095850332">
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1581354304089">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581095850332" />
-    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1581095850332">
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581354304089" />
+    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1581354304089">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1581095850332" />
-    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1581095850332">
+    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1581354304089" />
+    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1581354304089">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1581095850332" />
-    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1581095850332">
+    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1581354304089" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1581354304089">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1581095850332" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1581354304089" />
     <state x="186" y="79" key="SettingsEditor" timestamp="1581007373637">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="186" y="79" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1581007373637" />
-    <state x="380" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1581094485840">
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1581699799451">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="380" y="261" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1581094485840" />
-    <state x="350" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1581006970674">
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1581699799451" />
+    <state x="351" y="188" width="672" height="678" key="search.everywhere.popup" timestamp="1581353172844">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="350" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1581006970674" />
+    <state x="351" y="188" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1581353172844" />
   </component>
 </project>

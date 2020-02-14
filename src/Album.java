@@ -11,6 +11,14 @@ public class Album {
         this.time = time;
     }
 
+    public String getTitle() {
+        return this.title;
+    }
+
+    public String getArtist() {
+        return this.artist;
+    }
+
     public String toString() {
         return "Name: " + title + " | Artist: " + artist + " | Number of Songs: " + numSongs + " | Length: " + time + " minutes\n";
     }

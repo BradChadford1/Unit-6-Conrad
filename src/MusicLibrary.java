@@ -40,4 +40,33 @@ public class MusicLibrary {
         }
         return array.toString();
     }
+
+    public int findTitle(String title) {
+
+        for(int i = 0; i < music.length; i++) {
+            if(music[i] != null && music[i].getTitle().equals(title)) {
+                return i;
+            }
+        }
+        return -1;
+    }
+
+    public int findArtist(String artist) {
+        for(int i = 0; i < music.length; i++) {
+            if(music[i] != null && music[i].getArtist().equals(artist)) {
+                return i;
+            }
+        }
+        return -1;
+    }
+
+    public Album getAlbum(int i) {
+        if(i >= 0 && i < music.length)
+            return music[i];
+        else {
+            System.out.println("Out of Bounds");
+            return null;
+
+        }
+    }
 }
