@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bbaf7a-81ff-4726-a9a9-5f8015460dff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array2DExplorer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Unit-6-Conrad/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit-6-Conrad/Album.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Unit-6-Conrad/MusicLibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit-6-Conrad/MusicLibrary.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Unit-6-Conrad/MusicLibraryClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit-6-Conrad/MusicLibraryClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Album.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MusicLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MusicLibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MusicLibraryClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MusicLibraryClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array2DExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2DExplorer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +39,14 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.MusicLibraryClient">
+  <component name="RunManager" selected="Application.Array2DExplorer">
+    <configuration name="Array2DExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2DExplorer" />
+      <module name="Unit-6-Conrad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FrequencyChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FrequencyChart" />
       <module name="Unit-6-Conrad" />
@@ -61,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array2DExplorer" />
         <item itemvalue="Application.MusicLibraryClient" />
         <item itemvalue="Application.FrequencyChart" />
       </list>
@@ -108,22 +111,22 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1580851998181" />
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1581354304089">
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1582048193094">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581354304089" />
-    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1581354304089">
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582048193094" />
+    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1582048193094">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1581354304089" />
-    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1581354304089">
+    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582048193094" />
+    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1582048193094">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1581354304089" />
-    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1581354304089">
+    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582048193094" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1582048193094">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1581354304089" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582048193094" />
     <state x="186" y="79" key="SettingsEditor" timestamp="1581007373637">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
