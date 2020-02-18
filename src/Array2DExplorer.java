@@ -49,7 +49,29 @@ public class Array2DExplorer {
         return colAves;
     }
 
-    public static int 
+    public static int smallEven(int[][] matrix) {
+        int minEven = matrix[0][0];
+        for (int r = 0; r < matrix.length; r++) {
+            for (int c = 0; c < matrix[0].length; c++) {
+                if ((matrix[r][c] <= minEven) && (matrix[r][c] % 2 == 0))
+                minEven = matrix[r][c];
+            }
+        }
+        return minEven;
+    }
+
+    public static int biggestRow(int[][] matrix) {
+        int[] rowSums = Array2DExplorer.allRowSums(matrix);
+        int maxSum = rowSums[0];
+        int index = 0;
+        for (int i = 0; i < rowSums.length; i++) {
+            if (rowSums[i] >= maxSum) {
+                maxSum = rowSums[i];
+                index = i;
+            }
+        }
+        return index;
+    }
 
     public static void main(String[] args) {
         int[][] nums = {{-4,2,3,4},{-10,69,1000000,88},{-1,11,111,1111}};
@@ -61,5 +83,10 @@ public class Array2DExplorer {
         System.out.println("allRowSums: " + Arrays.toString(Array2DExplorer.allRowSums(nums)));
 
         System.out.println("colAves: " + Arrays.toString(Array2DExplorer.colAves(nums)));
+
+        System.out.println("smallEven: " + Array2DExplorer.smallEven(nums));
+
+        System.out.println("biggestRow: " + Array2DExplorer.biggestRow(nums));
+
     }
 }
