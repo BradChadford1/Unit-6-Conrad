@@ -2,7 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bbaf7a-81ff-4726-a9a9-5f8015460dff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/ColorChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/DigitalPicture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/FileChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/ImageDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/IntArrayWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/IntArrayWorkerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/Picture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/PictureExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/PictureFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/PictureTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/Pixel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/SimplePicture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/ColorChooser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/DigitalPicture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/FileChooser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/ImageDisplay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/IntArrayWorker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/IntArrayWorkerTester.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/Picture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/PictureExplorer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/PictureFrame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/PictureTester.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/Pixel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/SimplePicture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/resources/inherit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/doc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/leftArrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/classes/rightArrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/640x480.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/7inX95in.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/CumberlandIsland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/KatieFancy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/arch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/barbaraS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/beach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/blue-mark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/blueMotorcycle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/butterfly1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/caterpillar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/femaleLionAndHall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/flower1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/flower2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/gorge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/jenny-red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/kitten2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/moon-surface.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/msg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/redMotorcycle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/robot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/seagull.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/snowman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/swan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/temple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/thruDoor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/wall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pixlab/images/whiteFlower.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit-6-Conrad/Array2DExplorer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit-6-Conrad/Array2DExplorer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array2DExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2DExplorer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +102,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Unit-4-PigDice-Conrad" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -42,6 +115,19 @@
     <configuration name="Array2DExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2DExplorer" />
       <module name="Unit-6-Conrad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColorChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pixlab.classes.ColorChooser" />
+      <module name="Unit-6-Conrad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pixlab.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -63,6 +149,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Array2DExplorer" />
+        <item itemvalue="Application.ColorChooser" />
         <item itemvalue="Application.MusicLibraryClient" />
         <item itemvalue="Application.FrequencyChart" />
       </list>
@@ -93,6 +180,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="277" y="95" key="#Project_Structure" timestamp="1580490443542">
       <screen x="0" y="0" width="1368" height="872" />
@@ -110,30 +200,30 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1580851998181" />
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1582053976954">
+    <state width="1326" height="275" key="GridCell.Tab.0.bottom" timestamp="1582562901631">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582053976954" />
-    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1582053976954">
+    <state width="1326" height="275" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582562901631" />
+    <state width="1326" height="275" key="GridCell.Tab.0.center" timestamp="1582562901631">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582053976954" />
-    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1582053976954">
+    <state width="1326" height="275" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582562901631" />
+    <state width="1326" height="275" key="GridCell.Tab.0.left" timestamp="1582562901631">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582053976954" />
-    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1582053976954">
+    <state width="1326" height="275" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582562901631" />
+    <state width="1326" height="275" key="GridCell.Tab.0.right" timestamp="1582562901631">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582053976954" />
+    <state width="1326" height="275" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582562901631" />
     <state x="186" y="79" key="SettingsEditor" timestamp="1581007373637">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="186" y="79" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1581007373637" />
-    <state x="380" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1581699799451">
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1582562116174">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="380" y="261" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1581699799451" />
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582562116174" />
     <state x="351" y="188" width="672" height="678" key="search.everywhere.popup" timestamp="1581353172844">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
