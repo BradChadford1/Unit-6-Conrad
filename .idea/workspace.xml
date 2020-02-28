@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bbaf7a-81ff-4726-a9a9-5f8015460dff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayListWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Purse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.ArrayListWorker">
+  <component name="RunManager" selected="Application.Deck">
     <configuration name="Array2DExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2DExplorer" />
       <module name="Unit-6-Conrad" />
@@ -52,6 +50,13 @@
     </configuration>
     <configuration name="ArrayListWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListWorker" />
+      <module name="Unit-6-Conrad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Card" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Card" />
       <module name="Unit-6-Conrad" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,15 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrequencyChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FrequencyChart" />
-      <module name="Unit-6-Conrad" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MusicLibraryClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MusicLibraryClient" />
+    <configuration name="Deck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deck" />
       <module name="Unit-6-Conrad" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Deck" />
+        <item itemvalue="Application.Card" />
         <item itemvalue="Application.ArrayListWorker" />
         <item itemvalue="Application.Array2DExplorer" />
         <item itemvalue="Application.ColorChooser" />
-        <item itemvalue="Application.MusicLibraryClient" />
-        <item itemvalue="Application.FrequencyChart" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +125,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="277" y="95" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1580490443542" />
+    <state x="490" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1582909283695">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="490" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1582909283695" />
     <state x="365" y="173" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581094405101">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -139,30 +141,30 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1580851998181" />
-    <state width="1326" height="255" key="GridCell.Tab.0.bottom" timestamp="1582825510667">
+    <state width="1326" height="255" key="GridCell.Tab.0.bottom" timestamp="1582910896121">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="255" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582825510667" />
-    <state width="1326" height="255" key="GridCell.Tab.0.center" timestamp="1582825510667">
+    <state width="1326" height="255" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582910896121" />
+    <state width="1326" height="255" key="GridCell.Tab.0.center" timestamp="1582910896121">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="255" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582825510667" />
-    <state width="1326" height="255" key="GridCell.Tab.0.left" timestamp="1582825510667">
+    <state width="1326" height="255" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582910896121" />
+    <state width="1326" height="255" key="GridCell.Tab.0.left" timestamp="1582910896121">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="255" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582825510667" />
-    <state width="1326" height="255" key="GridCell.Tab.0.right" timestamp="1582825510667">
+    <state width="1326" height="255" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582910896121" />
+    <state width="1326" height="255" key="GridCell.Tab.0.right" timestamp="1582910896121">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="255" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582825510667" />
+    <state width="1326" height="255" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582910896121" />
     <state x="186" y="79" key="SettingsEditor" timestamp="1581007373637">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="186" y="79" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1581007373637" />
-    <state x="380" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1582562116174">
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1582908483600">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="380" y="261" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582562116174" />
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582908483600" />
     <state x="352" y="189" width="672" height="678" key="search.everywhere.popup" timestamp="1582824766524">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
