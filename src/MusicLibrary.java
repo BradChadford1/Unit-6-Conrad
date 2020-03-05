@@ -42,7 +42,6 @@ public class MusicLibrary {
     }
 
     public int findTitle(String title) {
-
         for(int i = 0; i < music.length; i++) {
             if(music[i] != null && music[i].getTitle().equals(title)) {
                 return i;

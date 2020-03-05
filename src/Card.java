@@ -22,7 +22,7 @@ public class Card implements Comparable{
 
 
     public int getRankValue() {
-        for ( int i = 0; i< RANK.length; i++) {
+        for ( int i = 0; i < RANK.length; i++) {
             if(this.rank.equals(RANK[i]))
                 return 14 - i;
         }

@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bbaf7a-81ff-4726-a9a9-5f8015460dff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.floo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flooignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Players.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit-6-Conrad/Deck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit-6-Conrad/Deck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +37,14 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Unit-4-PigDice-Conrad" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.Deck">
-    <configuration name="Array2DExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2DExplorer" />
-      <module name="Unit-6-Conrad" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GameOfWar">
     <configuration name="ArrayListWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListWorker" />
       <module name="Unit-6-Conrad" />
@@ -62,19 +59,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ColorChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pixlab.classes.ColorChooser" />
-      <module name="Unit-6-Conrad" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pixlab.classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Deck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Deck" />
       <module name="Unit-6-Conrad" />
@@ -82,13 +66,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GameOfWar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameOfWar" />
+      <module name="Unit-6-Conrad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Players" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Players" />
+      <module name="Unit-6-Conrad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GameOfWar" />
+        <item itemvalue="Application.Players" />
         <item itemvalue="Application.Deck" />
         <item itemvalue="Application.Card" />
         <item itemvalue="Application.ArrayListWorker" />
-        <item itemvalue="Application.Array2DExplorer" />
-        <item itemvalue="Application.ColorChooser" />
       </list>
     </recent_temporary>
   </component>
@@ -125,46 +123,50 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="277" y="95" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1580490443542" />
-    <state x="490" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1582909283695">
+    <state x="490" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1583214403382">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="490" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1582909283695" />
+    <state x="490" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1583214403382" />
     <state x="365" y="173" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581094405101">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="365" y="173" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1368.872@0.0.1368.872" timestamp="1581094405101" />
+    <state x="415" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583428149188">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="415" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.872@0.0.1368.872" timestamp="1583428149188" />
     <state x="432" y="293" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581094771612">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="432" y="293" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1368.872@0.0.1368.872" timestamp="1581094771612" />
-    <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1580851998181">
+    <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1583255088952">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1580851998181" />
-    <state width="1326" height="255" key="GridCell.Tab.0.bottom" timestamp="1582910896121">
+    <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1583255088952" />
+    <state width="1326" height="255" key="GridCell.Tab.0.bottom" timestamp="1583429717466">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="255" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582910896121" />
-    <state width="1326" height="255" key="GridCell.Tab.0.center" timestamp="1582910896121">
+    <state width="1326" height="255" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583429717466" />
+    <state width="1326" height="255" key="GridCell.Tab.0.center" timestamp="1583429717466">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="255" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582910896121" />
-    <state width="1326" height="255" key="GridCell.Tab.0.left" timestamp="1582910896121">
+    <state width="1326" height="255" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1583429717466" />
+    <state width="1326" height="255" key="GridCell.Tab.0.left" timestamp="1583429717466">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="255" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582910896121" />
-    <state width="1326" height="255" key="GridCell.Tab.0.right" timestamp="1582910896121">
+    <state width="1326" height="255" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1583429717466" />
+    <state width="1326" height="255" key="GridCell.Tab.0.right" timestamp="1583429717466">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="255" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582910896121" />
+    <state width="1326" height="255" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1583429717466" />
     <state x="186" y="79" key="SettingsEditor" timestamp="1581007373637">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="186" y="79" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1581007373637" />
-    <state x="380" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1582908483600">
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1583254867900">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="380" y="261" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582908483600" />
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1583254867900" />
     <state x="352" y="189" width="672" height="678" key="search.everywhere.popup" timestamp="1582824766524">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
